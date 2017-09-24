@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM debian:jessie
 MAINTAINER Luc Touraille <luc_touraille@yahoo.fr>
 
 ENV SQUEEZE_VOL /srv/squeezebox
