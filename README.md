@@ -12,6 +12,6 @@ Run Directly:
                -v /etc/localtime:/etc/localtime:ro \
                -v <local-state-dir>:/srv/squeezebox \
                -v <audio-dir>:/srv/music \
-               larsks/logitech-media-server
+               stilllman/logitech-media-server
 
 
