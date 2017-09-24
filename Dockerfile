@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Lars Kellogg-Stedman <lars@oddbit.com>
+MAINTAINER Luc Touraille <luc_touraille@yahoo.fr>
 
 ENV SQUEEZE_VOL /srv/squeezebox
 ENV LANG C.UTF-8
